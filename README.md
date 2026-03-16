@@ -1,0 +1,1 @@
+# ShopOur-banned-detection
