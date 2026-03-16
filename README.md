@@ -37,7 +37,7 @@ An AI-powered product moderation system designed to detect illegal or restricted
 
 
 
-python '
+```bash
 Product Input
     │
     │
@@ -68,6 +68,6 @@ Decision Engine
     ▼
 Allowed / Banned
 
-'
+```
 
 
