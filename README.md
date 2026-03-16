@@ -34,10 +34,11 @@ An AI-powered product moderation system designed to detect illegal or restricted
 - Tobacco / alcohol / vape products
 - This project provides an automated moderation pipeline to detect these listings.
 
+---
 
+## Workflow:
 
-
-```bash
+```
 Product Input
     │
     │
