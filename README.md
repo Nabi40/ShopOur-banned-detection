@@ -1,7 +1,7 @@
 # ShopOur-banned-detection
 ## 🚫 Banned Product Detection Pipeline
 
-An AI-powered product moderation system designed to detect illegal or restricted products in e-commerce listings using text analysis, OCR, and computer vision.
+An AI-powered product moderation system designed to detect illegal or restricted products in e-commerce listings using text analysis, OCR, and computer vision. This project provides an automated moderation pipeline to detect these listings.
 
 ---
 
@@ -22,8 +22,7 @@ An AI-powered product moderation system designed to detect illegal or restricted
 
 ---
 
-## 🧠 Problem This Solves:
-- E-commerce platforms often struggle with detecting listings containing:
+## 🧠 E-commerce platforms often struggle with detecting listings containing:
 - Illegal drugs
 - Weapons
 - Fake documents
@@ -31,8 +30,10 @@ An AI-powered product moderation system designed to detect illegal or restricted
 - Adult products
 - Cybercrime tools
 - Gambling services
-- Tobacco / alcohol / vape products
-- This project provides an automated moderation pipeline to detect these listings.
+- Tobacco/alcohol/vape products
+
+
+ 
 
 ---
 
